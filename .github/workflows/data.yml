@@ -34,5 +34,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-      This is the credentials for company X, Username, Password
-      
+      This is the access key for Company X
+          Username:johnbasix@gmail.com
+          Password:
